@@ -1,0 +1,23 @@
+{
+  "name": "e2e-cypress",
+  "version": "1.0.0",
+  "description": "Cypress e2e.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomacedo/e2e-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunomacedo/e2e-cypress/issues"
+  },
+  "homepage": "https://github.com/brunomacedo/e2e-cypress#readme",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}
