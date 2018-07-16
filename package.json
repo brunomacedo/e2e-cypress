@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/brunomacedo/e2e-cypress#readme",
   "devDependencies": {
-    "cypress": "^2.1.0"
+    "cypress": "^3.0.2"
   }
 }
